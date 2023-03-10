@@ -1,0 +1,2 @@
+C:\Users\kille\source\repos\animals\animals\x64\Debug\animals.vcxproj.AssemblyReference.cache
+C:\Users\kille\source\repos\animals\animals\x64\Debug\animals.vcxproj.SuggestedBindingRedirects.cache
