@@ -1,0 +1,4 @@
+C:\Users\kille\source\repos\CNP\CNP\x64\Debug\CNP.vcxproj.AssemblyReference.cache
+C:\Users\kille\source\repos\CNP\CNP\x64\Debug\CNP.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kille\source\repos\CNP\CNP\x64\Debug\CNP.Form1.resources
+C:\Users\kille\source\repos\CNP\CNP\x64\Debug\CNP.vcxproj.GenerateResource.cache
